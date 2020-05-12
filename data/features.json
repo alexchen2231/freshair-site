@@ -3,17 +3,17 @@
   "description" : "We provide a complete and comprehensive analysis of your personal exposure to thousands of chemicals.",
   "content" : [
     {
-      "icon" : "check",
+      "icon" : "universal-access",
       "title" : "Comfortable Wristband",
       "description" : "You will receive a light-weight, comfortable wristband that you can wear all-day to collect your personal chemical exposures."
     },
     {
-      "icon" : "check",
+      "icon" : "signal",
       "title" : "Scientific Analysis",
       "description" : "Our team of scientists will analyze your wristband and process the data to give you actionable results on your personal exposure levels."
     },
     {
-      "icon" : "check",
+      "icon" : "laptop",
       "title" : "Online Dashboard",
       "description" : "View your results online and see what changes you can make in your life to reduce your exposure to harmful chemicals."
     }
