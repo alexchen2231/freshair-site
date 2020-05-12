@@ -1,0 +1,11 @@
+{
+	"title" : "We are FreshAir",
+	"description" : "Helping you identify and measure thousands of chemical exposures",
+	"illustration" : "undraw_farm_girl_dnpe.svg",
+	"alt_text" : "Or see why we're worth it",
+	"alt_href" : "#features",
+	"button" : {
+		"text" : "Contact",
+		"href" : "#contact"
+	}
+}

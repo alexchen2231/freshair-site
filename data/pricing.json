@@ -1,0 +1,34 @@
+{
+  "title" : "Pricing",
+  "description" : "Pricing subtitle",
+  "content" : [
+    {
+      "title" : "Individual Orders",
+      "price" : "$299",
+      "features" : [
+        "A single FreshAir wristband",
+        "Scientific analysis and data processing",
+        "Access to your personal chemical exposures online"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Institutional Orders",
+      "price" : "...",
+      "features" : [
+        "Bulk order of wristbands",
+        "Priority analysis",
+        "Online dashboard access",
+        "Consultations to reduce exposure",
+        "24/7 Support"
+      ],
+      "button" : {
+        "text" : "Contact Us for Pricing",
+        "href" : "/#contact"
+      }
+    }
+  ]
+}

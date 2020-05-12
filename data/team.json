@@ -1,0 +1,41 @@
+{
+  "title" : "Team",
+  "description" : "Little team description here",
+  "members" : [
+    {
+      "name" : "Elizabeth Lin",
+      "description" : "",
+      "avatar" : "",
+      "social" : {
+      }
+    },
+    {
+      "name" : "Jeremy Koelmel",
+      "description" : "",
+      "avatar" : "",
+      "social" : {
+      }
+    },
+    {
+      "name" : "Alex Chen",
+      "description" : "",
+      "avatar" : "",
+      "social" : {
+      }
+    },
+    {
+      "name" : "Anmol Arora",
+      "description" : "",
+      "avatar" : "",
+      "social" : {
+      }
+    },
+    {
+      "name" : "Krystal Pollitt",
+      "description" : "",
+      "avatar" : "",
+      "social" : {
+      }
+    }
+  ]
+}
