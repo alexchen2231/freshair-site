@@ -21,6 +21,8 @@
       "description" : "",
       "avatar" : "alex.png",
       "social" : {
+        "linkedin" : "https://www.linkedin.com/in/chen-alexander/",
+        "twitter" : "https://twitter.com/cheny2231"
       }
     },
     {
@@ -32,7 +34,7 @@
     },
     {
       "name" : "Krystal Pollitt, PhD",
-      "description" : "",
+      "description" : "Advisor",
       "avatar" : "krystal.png",
       "social" : {
       }

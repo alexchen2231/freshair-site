@@ -12,7 +12,7 @@
           <div class="text-muted">{{ .description }}</div>
           <div class="text-center mt-3">
             {{ range $key, $value := .social }}
-            <a data-toggle="tooltip" title="{{ $key }}" href="{{ $value }}" class="ml-2 btn btn-sm btn-filled btn-{{$key}}"><i class="fab fa-{{ $key }}"></i></a>
+            <a data-toggle="tooltip" title="{{ $key }}" href="{{ $value }}" class="ml-2 btn btn-sm btn-filled btn-{{$key}}" target="_blank"><i class="fab fa-{{ $key }}"></i></a>
             {{ end }}
           </div>
         </div>
