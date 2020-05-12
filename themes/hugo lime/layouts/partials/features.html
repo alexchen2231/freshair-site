@@ -1,6 +1,7 @@
 {{ $features := .Site.Data.features }}
 {{ $title := $features.title }}
 {{ $description := $features.description }}
+{{ $image := $features.image }}
 <section id="features" class="bg-light py-5">
   <div class="container">
 
@@ -10,8 +11,10 @@
           <div>
               <h2 style="font-size:45px" class=" h1">{{ $title }}</h2>
               <p class="text-muted">{{ $description }}</p>
+              <div style="text-align: center;">
+                <img class="" style="max-width: 70%;" src="{{ .Site.BaseURL }}images/{{ $image }}">
+              </div>
           </div>
-          
         </div>
       </div>
       <div class="col-lg-7 col-12">
@@ -32,7 +35,7 @@
     </div>
     <hr>
     <div class="row" style="padding-top: 20px">
-      <h4 class="container text-center">See Our Video</h4>
+      <h2 class="container text-center h2">See Our Video</h2>
     </div>
     <div class="row" style="padding-top: 20px">
     <iframe style="width: 600px; height: 350px; display: block; margin: 0 auto;" src="https://www.youtube.com/embed/Q9G3Lz7hbuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
