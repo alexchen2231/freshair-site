@@ -1,39 +1,39 @@
 {
   "title" : "Team",
-  "description" : "Little team description here",
+  "description" : "",
   "members" : [
     {
       "name" : "Elizabeth Lin",
       "description" : "",
-      "avatar" : "",
+      "avatar" : "elizabeth.png",
       "social" : {
       }
     },
     {
-      "name" : "Jeremy Koelmel",
+      "name" : "Jeremy Koelmel, PhD",
       "description" : "",
-      "avatar" : "",
+      "avatar" : "jeremy.png",
       "social" : {
       }
     },
     {
       "name" : "Alex Chen",
       "description" : "",
-      "avatar" : "",
+      "avatar" : "alex.png",
       "social" : {
       }
     },
     {
       "name" : "Anmol Arora",
       "description" : "",
-      "avatar" : "",
+      "avatar" : "anmol.png",
       "social" : {
       }
     },
     {
-      "name" : "Krystal Pollitt",
+      "name" : "Krystal Pollitt, PhD",
       "description" : "",
-      "avatar" : "",
+      "avatar" : "krystal.png",
       "social" : {
       }
     }
