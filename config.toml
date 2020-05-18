@@ -1,4 +1,4 @@
 baseURL = "https://exposurestory.com/"
 languageCode = "en-us"
-title = "MyExposureStory"
+title = "ExposureStory"
 theme = 'hugo lime'
