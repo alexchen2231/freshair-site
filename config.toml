@@ -1,4 +1,4 @@
-baseURL = "https://freshair-site.onrender.com/"
+baseURL = "https://exposurestory.com/"
 languageCode = "en-us"
-title = "FreshAir"
+title = "MyExposureStory"
 theme = 'hugo lime'
