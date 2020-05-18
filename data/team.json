@@ -7,6 +7,7 @@
       "description" : "",
       "avatar" : "elizabeth.png",
       "social" : {
+        "linkedin" : "https://www.linkedin.com/in/elizabeth-lin-50831bab/"
       }
     },
     {
@@ -14,6 +15,7 @@
       "description" : "",
       "avatar" : "jeremy.png",
       "social" : {
+        "linkedin" : "https://www.linkedin.com/in/jeremy-koelmel-9b548840/"
       }
     },
     {
@@ -30,6 +32,7 @@
       "description" : "",
       "avatar" : "anmol.png",
       "social" : {
+        "linkedin" : "https://www.linkedin.com/in/anmol-arora-0000/"
       }
     },
     {
@@ -37,6 +40,7 @@
       "description" : "Advisor",
       "avatar" : "krystal.png",
       "social" : {
+        "linkedin" : "https://www.linkedin.com/in/krystal-godri-pollitt-26b00840/"
       }
     }
   ]
