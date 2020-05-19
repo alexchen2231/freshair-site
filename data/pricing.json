@@ -4,7 +4,7 @@
   "content" : [
     {
       "title" : "Individual Orders",
-      "price" : "$299",
+      "price" : "",
       "features" : [
         "A single FreshAir wristband",
         "Scientific analysis and data processing",
@@ -17,16 +17,16 @@
     },
     {
       "title" : "Institutional Orders",
-      "price" : "...",
+      "price" : "",
       "features" : [
         "Bulk order of wristbands",
         "Priority analysis",
-        "Online dashboard access",
+        "Online dashboard",
         "Consultations to reduce exposure",
         "24/7 Support"
       ],
       "button" : {
-        "text" : "Contact Us for Pricing",
+        "text" : "Contact",
         "href" : "/#contact"
       }
     }
